@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "lsaacgoncalves2",
+  "repo": "container-kicszhy",
+  "name": "lsaacgoncalves2",
+  "email": "lsaacgoncalves@icloud.com",
+}
